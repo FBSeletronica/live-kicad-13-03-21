@@ -1,0 +1,28 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,5.1.9-73d0e3b20d~88~ubuntu18.04.1*%
+%TF.CreationDate,2021-03-13T22:18:33-03:00*%
+%TF.ProjectId,live-kicad,6c697665-2d6b-4696-9361-642e6b696361,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Soldermask,Top*%
+%TF.FilePolarity,Negative*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 5.1.9-73d0e3b20d~88~ubuntu18.04.1) date 2021-03-13 22:18:33*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10C,3.200000*%
+%ADD11R,1.700000X1.700000*%
+%ADD12O,1.700000X1.700000*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,REF\u002A\u002A*%
+X111125000Y-45085000D03*
+%TD*%
+D11*
+%TO.C,J1*%
+X103505000Y-45085000D03*
+D12*
+X103505000Y-47625000D03*
+%TD*%
+M02*
